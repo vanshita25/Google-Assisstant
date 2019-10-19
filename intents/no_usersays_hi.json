@@ -1,0 +1,38 @@
+[
+  {
+    "id": "98f8e066-866e-4ac2-a921-b293a11fbd80",
+    "data": [
+      {
+        "text": "छोड़ो",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e331b9d6-0326-4e6e-bf70-96c49b086e7a",
+    "data": [
+      {
+        "text": "मुझे कोई दिलचस्पी नहीं हूँ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e393ffda-b377-4dc9-bc00-50662a27401d",
+    "data": [
+      {
+        "text": "नहीं",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

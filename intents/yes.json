@@ -1,0 +1,60 @@
+{
+  "id": "20405eb6-aaea-4c74-ba6a-62636496a381",
+  "name": "yes",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Pizza/The origin of pizza goes back to ancient times. Greeks and Egyptians were cooking a pizza like flatbread and topping it with olive oil and spices. The modern pizza as we  know it evolved in Naples Italy, when tomato was added to in the late 18th century.\nWanna know more?",
+            "The most popular pizza topping is pepperoni.It’s not to hard to figure this one out, but now we have the numbers to prove it! In a HarrisPoll® taken in January of 2016, pepperoni was found to be the most popular topping followed by Sausage at number two.\nWanna know more?",
+            "Pizza undoubtedly contains more nutrient packed vegetables than most take-out choices and can help contribute to your daily requirements.\nWanna know more?",
+            "Other sources of nutrients in pizza include cheese, which contains calcium, protein and vitamin A. Another source of nutrients in pizza is the dough, which contains some antioxidants due to the chemical reactions of the yeast. Pizza dough is made from a higher protein flour than bread dough.\nWanna know more?",
+            "In India, the most preferred pizza topping is tofu\nWanna know more?",
+            "The risk of some cancers are reduced if pizza is consumed once a week.\nWanna know more?"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "hi",
+          "condition": "",
+          "speech": [
+            " पिज्जा / पिज्जा की उत्पत्ति प्राचीन काल में होती है। यूनानी और मिस्र के लोग एक पिज्जा को फ्लैटब्रेड की तरह पका रहे थे और इसे जैतून के तेल और मसालों के साथ पका रहे थे। आधुनिक पिज्जा जैसा कि हम जानते हैं कि यह नेपल्स इटली में विकसित हुआ था, जब 18 वीं शताब्दी के अंत में टमाटर को जोड़ा गया था।\nअधिक जानना चाहते हैं?",
+            " सबसे लोकप्रिय पिज्जा टॉपिंग पेपरोनी है। इस एक को समझ पाना मुश्किल नहीं है, लेकिन अब हमारे पास इसे साबित करने के लिए संख्या है! 2016 के जनवरी में लिए गए एक हैरिसपॉल® में, पेपरोनी को सबसे लोकप्रिय टॉपिंग के बाद नंबर दो पर सॉसेज मिला।\nअधिक जानना चाहते हैं?",
+            "पिज्जा निस्संदेह सबसे अधिक ले-आउट विकल्पों की तुलना में अधिक पोषक तत्वों से भरपूर सब्जियों को शामिल करता है और आपकी दैनिक आवश्यकताओं में योगदान कर सकता है।\nअधिक जानना चाहते हैं?",
+            "पिज्जा में पोषक तत्वों के अन्य स्रोतों में पनीर शामिल हैं, जिसमें कैल्शियम, प्रोटीन और विटामिन ए हैं। पिज्जा में पोषक तत्वों का एक अन्य स्रोत आटा है, जिसमें खमीर की रासायनिक प्रतिक्रियाओं के कारण कुछ एंटीऑक्सिडेंट होते हैं। पिज्जा आटा रोटी के आटे की तुलना में उच्च प्रोटीन आटे से बनाया जाता है।\nअधिक जानना चाहते हैं?",
+            "भारत में, सबसे पसंदीदा पिज्जा टॉपिंग टोफू है\nअधिक जानना चाहते हैं?",
+            "अगर सप्ताह में एक बार पिज्जा का सेवन किया जाए तो कुछ कैंसर का खतरा कम हो जाता है।\nअधिक जानना चाहते हैं?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
